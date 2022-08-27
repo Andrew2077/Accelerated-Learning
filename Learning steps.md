@@ -50,7 +50,7 @@ Your section headers will be used to reference the location of the destination.
 
 - Long-term goal (3 to 5 years): career focus
 - Medium-term (3 to 5 weeks): next topic or certificate
-- Short-term, Daily grid
+- Short-term, Daily grind
 
 ---
 
